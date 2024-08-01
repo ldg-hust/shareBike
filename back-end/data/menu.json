@@ -1,0 +1,66 @@
+[
+    {
+        "name": "首页",
+        "path": "/home"
+    },
+    {
+        "name": "UI",
+        "path": "/ui",
+        "children": [
+            {
+                "name": "按钮",
+                "path": "/ui/button"
+            },
+            {
+                "name": "图标",
+                "path": "/ui/icon"
+            }
+        ]
+    },
+    {
+        "name": "表单",
+        "path": "/form",
+        "children": [
+            {
+                "name": "基础表单",
+                "path": "/form/basic"
+            },
+            {
+                "name": "高级表单",
+                "path": "/form/advanced"
+            }
+        ]
+    },
+    {
+        "name": "表格",
+        "path": "/table"
+    },
+    {
+        "name": "富文本",
+        "path": "/richtext"
+    },
+    {
+        "name": "城市管理",
+        "path": "/city"
+    },
+    {
+        "name": "订单管理",
+        "path": "/order"
+    },
+    {
+        "name": "员工管理",
+        "path": "/employee"
+    },
+    {
+        "name": "车辆地图",
+        "path": "/vehicle/map"
+    },
+    {
+        "name": "图标",
+        "path": "/icon"
+    },
+    {
+        "name": "权限设置",
+        "path": "/permissions"
+    }
+]
